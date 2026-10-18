@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/wiseman/py-webrtcvad/commit/e283ca41df3a84b0e87fb1f5cb9b21580a286b09",
       "git:hexsha": "e283ca41df3a84b0e87fb1f5cb9b21580a286b09",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/wiseman/py-webrtcvad/commit/ff007d1da2a8f0e18615789bed495c97f35daf7b",
