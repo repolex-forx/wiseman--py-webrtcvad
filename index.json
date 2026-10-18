@@ -1,0 +1,11 @@
+{
+  "org": "wiseman",
+  "repo": "py-webrtcvad",
+  "versions": [
+    {
+      "commit": "e283ca41df3a84b0e87fb1f5cb9b21580a286b09",
+      "tag": "",
+      "parsed_at": "2026-10-18T01:48:04.123316+00:00"
+    }
+  ]
+}
